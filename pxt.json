@@ -1,0 +1,34 @@
+{
+    "name": "Juego de Naves - Copy - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sevenseg": "*",
+        "animation": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "sprite-scaling": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
